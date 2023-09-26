@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="greeting_icon_launcher_background">#9BF3FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cold_ocean">#006688</color>
+    <color name="swamp">#00696e</color>
+    <color name="ocean">#006878</color>
+    <color name="tomato">#ba1a1a</color>
+    <color name="snow">#fbfcfe</color>
+    <color name="flint">#71787d</color>
+    <color name="hole">#191c1e</color>
+    <color name="sky">#75d1ff</color>
+    <color name="warm_ocean">#4cd9e2</color>
+    <color name="ozon">#3dd8f5</color>
+    <color name="love">#ffb4ab</color>
+    <color name="concrete">#8a9297</color>
+    <color name="deep_ocean">#003548</color>
+    <color name="taiga">#003739</color>
+    <color name="eveningSwamp">#00363f</color>
+    <color name="lips">#690005</color>
+    <color name="noise">#e1e2e5</color>
+
+</resources>

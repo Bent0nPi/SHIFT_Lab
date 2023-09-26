@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GreetingApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/sky</item>
+        <item name="colorSecondary">@color/warm_ocean</item>
+        <item name="colorTertiary">@color/ozon</item>
+        <item name="colorError">@color/love</item>
+        <item name="colorBackgroundFloating">@color/snow</item>
+        <item name="colorOutline">@color/concrete</item>
+        <item name="colorOnPrimary">@color/deep_ocean</item>
+        <item name="colorOnSecondary">@color/eveningSwamp</item>
+        <item name="colorOnTertiary">@color/taiga</item>
+        <item name="colorOnError">@color/lips</item>
+        <item name="colorOnBackground">@color/noise</item>
+    </style>
+</resources>

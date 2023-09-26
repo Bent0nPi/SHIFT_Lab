@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Greeting App</string>
+    <string name="bacgrountDescription">Листья на фоне основного экрана</string>
+    <string name="registration">Регистрация</string>
+    <string name="nameFieldHint">Имя</string>
+    <string name="surnameFieldHint">Фамилия</string>
+    <string name="dateFieldHint">Дата рождения</string>
+    <string name="passwordFieldHint">Пароль</string>
+    <string name="passwordReplyFieldHint">Повторите пароль</string>
+    <string name="registrationBtn">Зарегестрироваться</string>
+    <string name="greeting">Приветствие</string>
+    <string name="greetingText">Здравствуйте, %1$s!</string>
+    <string name="positiveBtn">Привет!</string>
+    <string name="nameLengthError">Имя должно быть длинее одной буквы</string>
+    <string name="nameConsistError">Используйте только буквы</string>
+    <string name="surnameLengthError">Фамилия должна быть длинее одной буквы</string>
+    <string name="surnameConsistError">Используйте только буквы</string>
+    <string name="dateYearError">Год указан неверно</string>
+    <string name="dateMonthError">Месяц указан неверно</string>
+    <string name="dateDayError">День указан неверно</string>
+    <string name="dateFormatError">Формат: дд.мм.гггг</string>
+    <string name="passwordLengthError">Пароль должен быть длинее 8 символов</string>
+    <string name="passwordSpecSymbolsError">Используйте спецсимволы</string>
+    <string name="passwordUpperCaseError">Используйте заглавные буквы</string>
+    <string name="passwordLowerCaseErroe">Используйте строчные буквы</string>
+    <string name="passwordDigitsError">Используйте цифры</string>
+    <string name="passwordCompareError">Пароли не совпадают</string>
+
+</resources>
